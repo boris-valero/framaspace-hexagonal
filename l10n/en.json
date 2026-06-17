@@ -1,0 +1,19 @@
+{
+    "translations": {
+        "Information:": "Information:",
+        "Customize the interface by hiding certain applications from the menu (except Files and Activity) for you and for all users of this Framaspace.": "Customize the interface by hiding certain applications from the menu (except Files and Activity) for you and for all users of this Framaspace.",
+        "Instructions:": "Instructions:",
+        "Check the box in the right column to hide an application and uncheck this same box to display it again. Don't forget to click \"Save\". On the next page reload, the icon will be hidden.": "Check the box in the right column to hide an application and uncheck this same box to display it again. Don't forget to click \"Save\". On the next page reload, the icon will be hidden.",
+        "Application name": "Application name",
+        "Do you want to hide the icon?": "Do you want to hide the icon?",
+        "Protected": "Protected",
+        "This application cannot be hidden": "This application cannot be hidden",
+        "Hide": "Hide",
+        "Save": "Save",
+        "Loading error": "Loading error",
+        "Saving…": "Saving…",
+        "Saved!": "Saved!",
+        "Save error": "Save error"
+    },
+    "pluralForm": "nplurals=2; plural=(n != 1);"
+}

@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FramaSpace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-16 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templates/settings/admin-form.php:15
+msgid "Information:"
+msgstr ""
+
+#: templates/settings/admin-form.php:15
+msgid "Customize the interface by hiding certain applications from the menu (except Files and Activity) for you and for all users of this Framaspace."
+msgstr ""
+
+#: templates/settings/admin-form.php:16
+msgid "Instructions:"
+msgstr ""
+
+#: templates/settings/admin-form.php:16
+msgid "Check the box in the right column to hide an application and uncheck this same box to display it again. Don't forget to click \"Save\". On the next page reload, the icon will be hidden."
+msgstr ""
+
+#: templates/settings/admin-form.php:23
+msgid "Application name"
+msgstr ""
+
+#: templates/settings/admin-form.php:24
+msgid "Do you want to hide the icon?"
+msgstr ""
+
+#: templates/settings/admin-form.php:37
+msgid "Protected"
+msgstr ""
+
+#: templates/settings/admin-form.php:37
+msgid "This application cannot be hidden"
+msgstr ""
+
+#: templates/settings/admin-form.php:44
+msgid "Hide"
+msgstr ""
+
+#: templates/settings/admin-form.php:53
+msgid "Save"
+msgstr ""
