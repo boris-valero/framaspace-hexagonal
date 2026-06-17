@@ -1,4 +1,4 @@
-# Frama Space
+# FramaSpace
 
 Dans le cadre de mon alternance, j'ai développé, en tant que salarié de l'association Framasoft, "FramaSpace", une application Nextcloud pour Framasoft. Elle agrége des métriques d'utilisation des différentes applications nextcloud et permet de masquer les icônes des applications  dans le menu de navigation de Nextcloud.
 
